@@ -7,7 +7,10 @@ function App() {
   return (
     <>
       <div>
-      <h1 className="text-3xl bg-stone-900 font-bold underline">
+      <h1 className="text-3xl bg-stone-500 font-bold underline mt-14">
+        Hello world!
+      </h1>
+      <h1 className="text-3xl bg-stone-500 font-bold underline mt-24 py-24  text-align-center">
         Hello world!
       </h1>
       </div>
